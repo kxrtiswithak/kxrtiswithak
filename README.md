@@ -29,17 +29,31 @@
 > "Every 60 Seconds In Africa, A Minute Passes"         
 > &ndash; [_Jamal, 2014_][jamal]
 
-![Profile views](https://gpvc.arturio.dev/kxrtiswithak)  <img src="https://img.shields.io/github/followers/kxrtiswithak?label=Followers" style=" float:left, margin-right:10px" />
+![profile_views](https://gpvc.arturio.dev/kxrtiswithak)
+![followers](https://img.shields.io/github/followers/kxrtiswithak?label=Followers)
 
 ---
 
 ### Skills & Tools 🔨
 
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=fff"> <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=fff"> <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=fff"> <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=fff"> <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=fff"> <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=fff"> <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=fff"> <img src="https://img.shields.io/badge/-Spring-cb23f?style=flat&logo=spring&logoColor=fff"> <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-af4db4?style=flat&logo=intellij%20idea&logoColor=fff">
+![html_badge](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
+![css_badge](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=fff)
+![bootstrap_badge](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=fff)
+![js_badge](https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=fff)
+![git_badge](http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=fff)
+![github_badge](http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=fff)
+![mysql_badge](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=fff)
+![java_badge](http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=fff)
+![spring_badge](https://img.shields.io/badge/-Spring-cb23f?style=flat&logo=spring&logoColor=fff)
+![intellij_badge](https://img.shields.io/badge/-IntelliJ%20IDEA-af4db4?style=flat&logo=intellij%20idea&logoColor=fff)
 
 ### Other Languages I know 💬
 
-<img src="https://img.shields.io/badge/-python-3f7dae?style=flat&logo=python&logoColor=fff"> <img src="https://img.shields.io/badge/-Android%20Studio-3ddd84?style=flat&logo=android&logoColor=fff"> <img src="https://img.shields.io/badge/-Bash-222?style=flat&logo=gnu%20bash&logoColor=fff"> <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=fff">
+![python_badge](https://img.shields.io/badge/-python-3f7dae?style=flat&logo=python&logoColor=fff)
+![android_badge](https://img.shields.io/badge/-Android%20Studio-3ddd84?style=flat&logo=android&logoColor=fff)
+![bash_badge](https://img.shields.io/badge/-Bash-222?style=flat&logo=gnu%20bash&logoColor=fff)
+![vscode_badge](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=fff)
+
 
 ---
 
@@ -48,7 +62,6 @@
 <a href="https://profile.codersrank.io/user/kxrtiswithak"><img width="494px" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=kxrtiswithak&layout=horizontal&badges=3&show-avatar=true&min-width=494px&branding=false&style=--bg-color:%23e1e4e8;--border:1px%20solid%23fff;--border-radius:4px;--header-padding:20px;--header-bg-color:%232673a8;--name-font-size:18px;--name-font-weight:bold;--rank-font-size:14px;--preloader-color:%23e1e4e8;--badges-padding:20px;--badge-box-shadow:none;--badge-border:1px%20solid%23fff;--badge-rank-font-size:12px;--badge-location-font-size:12px;--badge-padding:10px;--badge-margin:10px;--badge-icon-size:16px;--badge-technology-font-size:14px;--badge-technology-font-weight:normal)" /></a>
 
 [![Kurtis' GitHub Streaks](https://github-readme-streak-stats.herokuapp.com?user=kxrtiswithak)](https://git.io/streak-stats)
-
 ![Kurtis' GitHub stats](https://github-readme-stats.vercel.app/api?username=kxrtiswithak&show_icons=true&hide_border=true)
 
 ---
