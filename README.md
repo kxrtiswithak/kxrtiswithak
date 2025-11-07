@@ -2,58 +2,39 @@
 
 ---
 
-<p align="center">
-  <img src="img/banner.png" width="100%" title="Intro Banner" alt="Intro Banner">
-</p>
+I am a Backend Java Engineer with over 4 years experience with distributed systems and within banking.
 
-😬 I am a **`Developer Consultant`** ⌨️ who has recently completed a 12-week training course with Sparta Global ⚔️ in **`Java Development`**.
+👶🏽 My passion for programming began when I took computing in sixth form, upon the recommendation of GCSE ICT teacher who thought I would enjoy (she got that right). Since then it has continued to grow, a means for me to express my creativity and collaborate with others.
 
-🔎 Seeking work as a Junior Software Developer. 🤞
+✍🏽 I like to write about about lessons and experiences from my personal life [on substack][substack], and professional life [on medium][medium].
 
-😍 My passion for programming began when I took computing in sixth form, upon the recommendation of GCSE ICT teacher who thought I would enjoy (she got that right). Since then it has continued to grow, a means for me to express my creativity and collaborate with others.
+📖 I'm currently learning about Vibe Coding, awaiting [my copy of the book of the same name][vibe-coding-book] to arrive, as well as trying my hand using different coding agents and tools.
 
-🔭 I'm currently refactoring recent projects I've completed with sparta, specifically [**`Guess That Quote`**][guess-that-quote] and [**`Press-Play`**][press-play] (pinned below)
+🤓 I want to learn web frameworks such as `React` and `Astro` to build my own website for my writing.
 
-🌱 I'm currently learning Spring Boot MVC and git version control. Check out my latest group project [**`one-to-one feedback tracker`**][1-to-1]
+🏢 I enjoy attending conferences within my domain to hear about what's happening within the industry, and utilising them for content to write about!
 
-🤓 I want to learn web frameworks such as `React` and `Angular` to incorporate with `Java Spring`
+🤔 I'm looking for more tech oriented events, opportunities and communities to be a part of in order to grow my network, insights and inspiration for writing.
 
-👯 I'm looking to collaborate on a `React` project once I have done some learning
-
-🤔 I'm looking for help with `Spring MVC` and `MySQL` database deployment, allowing usage to others but protecting sensitive data
-
-🙋‍♂️ Ask me about **OOP**, **SOLID**, **SCRUM** and any other tech-related stuff!
-
-### ⚡ Fun fact
-
-> "Every 60 Seconds In Africa, A Minute Passes"         
-> &ndash; [_Jamal, 2014_][jamal]
+🙋‍♂️ Ask me about Open Banking, CI/CD, Observability and any other tech-related stuff!
 
 ![profile_views](https://gpvc.arturio.dev/kxrtiswithak)
 ![followers](https://img.shields.io/github/followers/kxrtiswithak?label=Followers)
 
 ---
 
-### Skills & Tools 🔨
+### Toolkit 🔨
 
-![html_badge](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
-![css_badge](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=fff)
-![bootstrap_badge](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=fff)
-![js_badge](https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=fff)
-![git_badge](http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=fff)
-![github_badge](http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=fff)
-![mysql_badge](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=fff)
 ![java_badge](http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=fff)
 ![spring_badge](https://img.shields.io/badge/-Spring-cb23f?style=flat&logo=spring&logoColor=fff)
-![intellij_badge](https://img.shields.io/badge/-IntelliJ%20IDEA-af4db4?style=flat&logo=intellij%20idea&logoColor=fff)
+![js_badge](https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=fff)
+![git_badge](http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=fff)
 
-### Other Languages I know 💬
+
+### Other Technologies 💬
 
 ![python_badge](https://img.shields.io/badge/-python-3f7dae?style=flat&logo=python&logoColor=fff)
-![android_badge](https://img.shields.io/badge/-Android%20Studio-3ddd84?style=flat&logo=android&logoColor=fff)
 ![bash_badge](https://img.shields.io/badge/-Bash-222?style=flat&logo=gnu%20bash&logoColor=fff)
-![vscode_badge](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=fff)
-
 
 ---
 
@@ -69,43 +50,18 @@
 ### Check me out here 🔌
 
 [![LinkedIn](http://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedIn&logoColor=white)][linkedin]
-[![Twitter](http://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)][twitter]
 [![Mail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)][mail]
-[![Coder Rank](http://img.shields.io/badge/-Coders%20Rank-67A4AC?style=flat&logo=CodersRank&logoColor=white)][codersrank]
-[![Instagram](http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)][instagram]
 
 ---
 
-🤝 Get in touch so that we can make something great! 💪
+📢 Drop me a line for something worth having ony radar, or if you just wanna build something. I could be game 👀
 
 ⭐️ Go give my repos and ✨ _star_ ✨ if you feel they're worth it! 💁‍♀️
 
 <!-- footnote links -->
 
 [linkedin]: https://www.linkedin.com/in/kxrtiswithak/
-[twitter]: https://twitter.com/kxrtiswithak
-[instagram]: https://www.instagram.com/kxrtiswithak
 [mail]:mailto:kxrtiswithak@gmail.com
-[codersrank]: https://profile.codersrank.io/user/kxrtiswithak
-[guess-that-quote]: https://github.com/kxrtiswithak/GuessThatQuote
-[press-play]: https://github.com/kxrtiswithak/Press-Play
-[1-to-1]: https://github.com/kxrtiswithak/Engineering80FinalProject
-[jamal]: https://www.youtube.com/watch?v=7Zm1hPbmzPw
-
-
-<!-- template comment -->
-
-<!--
-**kxrtiswithak/kxrtiswithak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[vibe-coding-book]: https://amzn.eu/d/0kBhERv
+[substack]: https://beforeiwritemybook.com
+[medium]: https://medium.com/@kxrtiswithak
