@@ -18,8 +18,8 @@ I am a Backend Java Engineer with over 4 years experience with distributed syste
 
 🙋‍♂️ Ask me about Open Banking, CI/CD, Observability and any other tech-related stuff!
 
-![profile_views](https://gpvc.arturio.dev/kxrtiswithak)
-![followers](https://img.shields.io/github/followers/kxrtiswithak?label=Followers)
+![profile_views](https://komarev.com/ghpvc/?username=kxrtiswithak&color=da3fab)
+![followers](https://img.shields.io/github/followers/kxrtiswithak?label=Followers&style=flat&color=da3fab)
 
 ---
 
