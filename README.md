@@ -16,8 +16,7 @@ I’m a Backend Java Engineer (Spring Boot) with 4+ years building distributed s
 
 🙋🏽 Ask me about Open Banking, CI/CD, observability, and practical software engineering.
 
-![profile_views](https://komarev.com/ghpvc/?username=kxrtiswithak&color=da3fab)
-![followers](https://img.shields.io/github/followers/kxrtiswithak?label=Followers&style=flat&color=da3fab)
+[![Kurtis Hanson profile views](https://u8views.com/api/v1/github/profiles/15706925/views/day-week-month-total-count.svg)](https://u8views.com/github/kxrtiswithak)
 
 ---
 
@@ -46,7 +45,9 @@ I’m a Backend Java Engineer (Spring Boot) with 4+ years building distributed s
 <a href="https://profile.codersrank.io/user/kxrtiswithak"><img width="494px" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=kxrtiswithak&layout=horizontal&badges=3&show-avatar=true&min-width=494px&branding=false&style=--bg-color:%23e1e4e8;--border:1px%20solid%23fff;--border-radius:4px;--header-padding:20px;--header-bg-color:%232673a8;--name-font-size:18px;--name-font-weight:bold;--rank-font-size:14px;--preloader-color:%23e1e4e8;--badges-padding:20px;--badge-box-shadow:none;--badge-border:1px%20solid%23fff;--badge-rank-font-size:12px;--badge-location-font-size:12px;--badge-padding:10px;--badge-margin:10px;--badge-icon-size:16px;--badge-technology-font-size:14px;--badge-technology-font-weight:normal)" /></a>
 
 [![Kurtis' GitHub Streaks](https://github-readme-streak-stats.herokuapp.com?user=kxrtiswithak)](https://git.io/streak-stats)
-![Kurtis' GitHub stats](https://github-readme-stats.vercel.app/api?username=kxrtiswithak&show_icons=true&hide_border=true)
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 
 ---
 
