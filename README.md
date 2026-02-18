@@ -47,7 +47,6 @@ I’m a Backend Java Engineer (Spring Boot) with 4+ years building distributed s
 [![Kurtis' GitHub Streaks](https://github-readme-streak-stats.herokuapp.com?user=kxrtiswithak)](https://git.io/streak-stats)
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 
 ---
 
